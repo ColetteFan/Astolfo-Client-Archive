@@ -40,3 +40,5 @@ start.Main --username Free --version 1.8.9 ^
 
 
 you still can use Astolfo in HvH servers, Bad Ac servers, or idk?
+https://cdn.discordapp.com/attachments/1162949416609644579/1315372875510841425/Astolfo_Tutorial.mp4?ex=67762733&is=6774d5b3&hm=29cd485d2107928e12808c5a605980d7a3ff764a136480d835e4014f77a1a9a2&
+^ tutorial in video
