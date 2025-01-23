@@ -10,7 +10,8 @@ How to Run the client?
 4. Click "CTRL A + DEL" and change the text that will be just below (This only for who will use Bellsoft JDK! for those who will use Zulu 8 don't need to do this!)
 5. Save and Click 2 times in "start.bat" (Note: "start.bat" need to be on top of all files!)
 6. Your Astolfo Client must have CMD open at all times (i think the cmd open all time is only for who use Bellsoft Jdk)
-7. Enjoy Astolfo Client! (Rip Script cuz the document is lost 😭)
+7. Enjoy Astolfo Client!
+8. Update 01232025 > Script Documentation: https://zarzel.gitbook.io/zarscript2
 
 
 Text To put in "start.bat":
